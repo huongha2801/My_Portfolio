@@ -34,16 +34,16 @@ In this project, I:
   * Created new columns for later use: Order month (in which month that order was made); Sales value (by multiplying Quantity with Price) 
 * Conducted a light EDA on: 
   * Sales and Month - Which month recorded the best sales?
-<br/>![](/images/cohort_monthsales.png)
+![](/images/cohort_monthsales.png)
   * Peak hour for people to make orders
-<br/>![](/images/cohort_hoursales.png)
+![](/images/cohort_hoursales.png)
   * Top 10 countries by sales value:
-<br/>![](/images/cohort_top10.JPG)
+![](/images/cohort_top10.JPG)
 * Cohort analysis:
   * Cohort 1: Retention rate
-</br>![](/images/cohort_retentionrate.png)
+![](/images/cohort_retentionrate.png)
   * Cohort 2: Average quantity sold
-</br>![](/images/cohort_average_quantity_sold.png)
+![](/images/cohort_average_quantity_sold.png)
   * Cohort 3: Average sales value
 </br>![](/images/cohort_average_sales_by_month.png)
 
@@ -70,10 +70,10 @@ The dataset was collected from [Kaggle](https://www.kaggle.com/olistbr/brazilian
   * During the two-year period, there were as many as 7000 orders delivered late Brazil-wide, this calls for better operation from the Supply side.
   * Most orders (note, to be differentiated with app use, where shoppers browse for products) took place between 10 a.m and 23 p.m.
 Making use of the slicers, the reader can gain more insights into the pattern of e-commerce inside each state/city in particular. <br/>
-</br>![](/images/Dashboard.JPG)
+![](/images/Dashboard.JPG)
 
 ## Certificates
 Several courses and tests I have completed as of present:
 * SQL
   * HackerRank (where I solved basic and intermediate problems)
-</br>![](/images/Hackerrank_Intermediate_Cert.png)
+![](/images/Hackerrank_Intermediate_Cert.png)
