@@ -14,4 +14,4 @@ In this project:
   * I re-categorized the Marital status and Education level for simplicity.
 * Conducted univariate and multivariate exploratory analysis of the variables
 
-[!](/images/Age%20distribution.png)
+![](/images/Age%20distribution.png)
