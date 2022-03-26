@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my page where I posted mini projects!
 
-You can use the [editor on GitHub](https://github.com/huongha2801/My_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Project 1: [Exploratory Data Analysis](
+In this project:
+* I made use of a publicly available data from Kaggle, which you can find here: [Marketing Campaign](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
+* Prepared the data: 
+  *  As most datasets shared on Kaggle, the structure of this was clear (the information being presented in a row-and-column format) and did not need much wrangling.
+  *  There were few missing values so it was acceptable to drop those from the dataset. 
+* Feature-engineered:
+  * The dataset had information about the Year of birth of the customers so it was a no-brainer to calculate their age.
+  * I also calculated how long the customers had been with the site for further analysis.
+  * I summed up the total amount each customer had spent on all categories.
+  * I calculated the number of children in each household (by summing up the number of 'kids' and 'teens' provided).
+  * I re-categorized the Marital status and Education level for simplicity.
+* Conducted univariate and multivariate exploratory analysis of the variables
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huongha2801/My_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[](/images/Age%20distribution.png)
