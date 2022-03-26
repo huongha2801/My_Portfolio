@@ -1,6 +1,6 @@
 ## Welcome to my page where I posted mini projects!
 
-### Project 1: [Exploratory Data Analysis](
+### Project 1: [Exploratory Data Analysis](https://github.com/huongha2801/EDA_2)
 In this project:
 * I made use of a publicly available data from Kaggle, which you can find here: [Marketing Campaign](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
 * Prepared the data: 
@@ -18,5 +18,7 @@ In this project:
 ![](/images/Income%20distribution.png)
 ![](/images/Total%20spending.png)
 ![](/images/Sales%20value.png)
-![]()
-![]()
+![](/images/Spending%20and%20Education.png)
+![](/images/Spending%20and%20No.%20of%20children.png)
+![](/images/Total%20spending.png)
+![](/images/Spending%20and%20Offers.png)
