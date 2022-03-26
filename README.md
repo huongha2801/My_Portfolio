@@ -34,9 +34,22 @@ In this project, I:
   * Created new columns for later use: Order month (in which month that order was made); Sales value (by multiplying Quantity with Price) 
 * Conducted a light EDA on: 
   * Sales and Month - Which month recorded the best sales?
-![](/images/cohort_top10.JPG)
+<br/>![](/images/cohort_monthsales.png)
   * Peak hour for people to make orders
-* 
+<br/>![](/images/cohort_hoursales.png)
+  * Top 10 countries by sales value:
+<br/>![](/images/cohort_top10.JPG)
+* Cohort analysis:
+  * Cohort 1: Retention rate
+</br>![](/images/cohort_retentionrate.png)
+  * Cohort 2: Average quantity sold
+</br>![](/images/cohort_average_quantity_sold.png)
+  * Cohort 3: Average sales value
+</br>![](/images/cohort_average_sales_by_month.png)
+
 
 ## Certificates
 Several courses and tests I have completed as of present:
+* SQL
+  * HackerRank (where I solved basic and intermediate problems)
+</br>![](/images/Hackerrank_Intermediate_Cert.png)
