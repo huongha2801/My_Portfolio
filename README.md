@@ -88,6 +88,7 @@ Both Mode and HackerRank were suggested by Miss Tina Huang.
 
 ## Marketing and other interests
 The year 2021 marked my transition and my pivotting to Marketing-related analytics. <br>
-Before Marketing, I was interested in the applications of Data Science (which demands more Maths, knowledge about algorithms and Coding) in more academic and less-business problems. <br>   
+Before Marketing, I was interested in the applications of Data Science (which demands more Maths, knowledge about algorithms and Coding) in more academic and less-business problems. <br>
+I started to learn more about the world of Marketing, which is not just about content creating and executional campaigns with innovative ads, but is also about strategy. My reading focused more on applications of Data analytics in Marketing, and Marketing metrics seem to make sense to me better. <br>
 Besides, I was quite interested in efficient and novel use of visualization. Websites such as Pudding.com, Visual Capital, Fivethirtyeight, ... and books such as The Big Book of Dashboard and Communicating with Tableau offer great principles and interesting use cases for presenting data with charts. 
 
