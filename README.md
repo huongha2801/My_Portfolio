@@ -74,6 +74,20 @@ Making use of the slicers, the reader can gain more insights into the pattern of
 
 ## Certificates
 Several courses and tests I have completed as of present:
-* SQL
-  * HackerRank (where I solved basic and intermediate problems)
+* SQL 
+  * HackerRank (where I solved basic and intermediate problems).
+HackerRank is a great place to practice using SQL. <br>
+The range of problems on this site covered from very basic ones to more complex problems where one has to combine several statements. The questions were practical but challenging enough for beginners, and I spent hours on some problems. However, HackerRank allowed test-takers to observe others' solutions, from which I learned a lot.<br>
+Having completed roughly 60 problems, I felt up to taking a test authored by HackerRank. There were two tests available, one Basic and the other Intermediate. The test for the Basic level was quite manageable, with problems demanding combinations of JOIN, WHERE and ORDER BY. <br>
+For the test to obtain the Intermediate Certificate, the difficulty went up not just one level. Not only do one has to work with as many as 5 tables at the same time, but also uses more advanced statements.<br>
 ![](/images/Hackerrank_Intermediate_Cert.png)
+
+My study material was mostly from Mode.com. Mode presented the topics in a logical way, from the basics of SELECT, WHERE, IN ... to the Intermediate of AGGREGATE, GROUP BY, COUNT, JOIN, HAVING, ... and the more Advanced of Window functions ... with a decent amount of practice (Mode allows learners to do practice problems right on its website with a built-in IDE and handsome sets of data). You can check out the syllabus [here](https://mode.com/sql-tutorial/).<br>
+Besides, I could find great resources at Mode such as case studies on applications of Data Analytics and how top companies made use of this field. One of my favorites was this article on [Facebook's aha moment](https://mode.com/blog/facebook-aha-moment-simpler-than-you-think/).<br>
+Both Mode and HackerRank were suggested by Miss Tina Huang.
+
+## Marketing and other interests
+The year 2021 marked my transition and my pivotting to Marketing-related analytics. <br>
+Before Marketing, I was interested in the applications of Data Science (which demands more Maths, knowledge about algorithms and Coding) in more academic and less-business problems. <br>   
+Besides, I was quite interested in efficient and novel use of visualization. Websites such as Pudding.com, Visual Capital, Fivethirtyeight, ... and books such as The Big Book of Dashboard and Communicating with Tableau offer great principles and interesting use cases for presenting data with charts. 
+
